@@ -53,6 +53,9 @@ A simple yet interactive **Quiz Application** built using pure HTML, CSS, and Ja
 - Add animations or transitions for better UX  
 
 ---
+## Screeenshot 
+![Image](https://github.com/user-attachments/assets/85d6314d-7f82-41e1-bdc8-e3442678957f)
+
 
 ## 📬 Contact
 
